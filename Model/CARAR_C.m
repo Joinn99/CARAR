@@ -18,7 +18,7 @@ function Md = CARAR_C(Dt, Md, Pm)
     tol = 1e-7;                                     % Converge Criteria
     Converge = false(1, 1, Pm.l, Pm.type);          % Converge Indicator
     %% Fixed Parameters
-     = 1;
+    Lambda1 = 1;
     Crho = 1;
     CReg = 'l1';
     %% Output
