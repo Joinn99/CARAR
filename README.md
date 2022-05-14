@@ -63,8 +63,8 @@ If you like to choose different hyperparameters, change them manually in `Model/
 
 ## References
 [^1]: [Yelp Dataset](https://www.yelp.com/dataset)
-[^2]: J. McAuley, J. Leskovec, and D. Jurafsky, “Learning attitudes and 993 attributes from multi-aspect reviews,” in *Proc. 2012 IEEE 12th International Conference on Data Mining (ICDM)*, Dec. 2012, 994 pp. 1020–1025.
-[^3]: D. Antognini and B. Faltings, “HotelRec: A novel very large-scale hotel 996 recommendation dataset,” in *Proc. 12th Language Resources and Evaluation Conference (LREC)*, May 2020, pp. 4917–4923.
+[^2]: J. McAuley, J. Leskovec, and D. Jurafsky, “Learning attitudes and attributes from multi-aspect reviews,” in *Proc. 2012 IEEE 12th International Conference on Data Mining (ICDM)*, Dec. 2012, 994 pp. 1020–1025.
+[^3]: D. Antognini and B. Faltings, “HotelRec: A novel very large-scale hotel recommendation dataset,” in *Proc. 12th Language Resources and Evaluation Conference (LREC)*, May 2020, pp. 4917–4923.
 [^4]: [OpenRice Hong Kong](https://www.openrice.com/en/hongkong)
 
 
